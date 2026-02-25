@@ -18,7 +18,7 @@ Calculated the total sales per month and running total of sales overtime. (https
 ## Performance Analysis
 Analyzed the yearly performance of products by comparing their sales to both the average sales performance of the product and the previous year's sales. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/cf4a7346484f1283a925434e3149aabc6a9c0968/Performance%20Analysis.sql)
 ## Proportional Analysis
-Calculated which categories contribute the most to overall sales.
+Calculated which categories contribute the most to overall sales. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/0775775dd0db3960284c6239be28be9d321b2f34/Proportional%20Analysis.sql)
 ## Data Segmentation 
 Segmented the customer data with 'VIP', 'Regular', and 'New' based on their spending and lifespan.
 And segmented the products with 'High-Performers', 'Mid-Range' and 'low-performers' based total sales of products.
