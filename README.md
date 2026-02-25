@@ -14,7 +14,7 @@ Ranked top and bottom customers based on highest revenue created, and ranked top
 ## Changes Over Time
 Analyzed sales performance overtime. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/b3fe5aade7a22a9695d6462d32ccab24b12abdeb/Changes%20Over%20Time.sql)
 ## Cumulative Analysis
-Calculated the total sales per month and running total of sales overtime.
+Calculated the total sales per month and running total of sales overtime. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/2b3d148854716ccb75930a6e51c1510d0a942bed/Cumulative%20Analysis.sql)
 ## Performance Analysis
 Analyzed the yearly performance of products by comparing their sales to both the average sales performance of the product and the previous year's sales.
 ## Proportional Analysis
