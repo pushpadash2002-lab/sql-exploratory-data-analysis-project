@@ -31,3 +31,5 @@ Identified that our high-performing products are from Bikes category making maxi
 # Results
 ## Customer Report
 (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/bcd1111a4b5ecd896d5bb70a42948cd9cf00d7f4/Customer%20report%20Result.csv)
+## Product Report
+(https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/1669985cff373552a83959271fa458c6b8176b84/Product%20Report%20Result.csv)
