@@ -2,7 +2,8 @@
 A comprehensive collection of SQL scripts for data exploration, analytics and reporting. This script cover various analytical techniques such as changes over time, cumulative analysis, performance analysis, data-segmentation, part-to-whole analysis.
 # Data Sources
 Used three datasets : dim_products, dim_customers and fact_sales.
-# Data Exploration (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/7f5cd50cd3ba8eee7e71e9c5fa1cde371f75711b/Data%20Exploration.sql)
+# Data Exploration
+(https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/7f5cd50cd3ba8eee7e71e9c5fa1cde371f75711b/Data%20Exploration.sql)
 Explored the database, along with date, dimensions, and measures. 
 # Analytics
 ## Magnitude Analysis
