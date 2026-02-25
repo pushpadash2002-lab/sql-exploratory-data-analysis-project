@@ -8,7 +8,7 @@ Explored the database, along with date, dimensions, and measures.
  
 # Analytics
 ## Magnitude Analysis
-Calculated measures by different dimensions. Example - Total customers by countries, total customers by gender, total products by category.
+Calculated measures by different dimensions. Example - Total customers by countries, total customers by gender, total products by category. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/484585e664406518cedd2699f07af6076e01c527/Magnitude%20Analysis.sql)
 ## Ranking Analysis
 Ranked top and bottom customers based on highest revenue created, and ranked top-performing and low-perfoming products in terms of sales.
 ## Changes Over Time
