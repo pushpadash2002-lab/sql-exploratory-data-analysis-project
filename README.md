@@ -17,6 +17,8 @@ Analyzed sales performance overtime.
 Calculated the total sales per month and running total of sales overtime.
 ## Performance Analysis
 Analyzed the yearly performance of products by comparing their sales to both the average sales performance of the product and the previous year's sales.
+## Proportional Analysis
+Calculated which categories contribute the most to overall sales.
 ## Data Segmentation 
 Segmented the customer data with 'VIP', 'Regular', and 'New' based on their spending and lifespan.
 And segmented the products with 'High-Performers', 'Mid-Range' and 'low-performers' based total sales of products.
