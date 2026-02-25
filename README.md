@@ -5,8 +5,12 @@ Used three datasets : dim_products, dim_customers and fact_sales.
 # Data Exploration
 Explored the database, along with date, dimensions, and measures. 
 # Analytics
+## Magnitude Analysis
+Calculated measures by different dimensions. Example - Total customers by countries, total customers by gender, total products by category.
+## Ranking Analysis
+Ranked top and bottom customers based on highest revenue created, and ranked top-performing and low-perfoming products in terms of sales.
 ## Changes Over Time
-Analyzed sales performance overtime
+Analyzed sales performance overtime.
 ## Cumulative Analysis
 Calculated the total sales per month and running total of sales overtime.
 ## Performance Analysis
