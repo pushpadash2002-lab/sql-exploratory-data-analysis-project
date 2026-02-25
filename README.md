@@ -3,8 +3,9 @@ A comprehensive collection of SQL scripts for data exploration, analytics and re
 # Data Sources
 Used three datasets : dim_products, dim_customers and fact_sales.
 # Data Exploration
-(https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/7f5cd50cd3ba8eee7e71e9c5fa1cde371f75711b/Data%20Exploration.sql).
 Explored the database, along with date, dimensions, and measures. 
+(https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/7f5cd50cd3ba8eee7e71e9c5fa1cde371f75711b/Data%20Exploration.sql).
+ 
 # Analytics
 ## Magnitude Analysis
 Calculated measures by different dimensions. Example - Total customers by countries, total customers by gender, total products by category.
