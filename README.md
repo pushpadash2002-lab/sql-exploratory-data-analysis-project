@@ -15,5 +15,7 @@ Analyzed the yearly performance of products by comparing their sales to both the
 Segmented the customer data with 'VIP', 'Regular', and 'New' based on their spending and lifespan.
 And segmented the products with 'High-Performers', 'Mid-Range' and 'low-performers' based total sales of products.
 # Key Insights (Reporting)
-## Customer Report : Identified that most of the VIP customers are from (50 and Above) age group with maximum average order value (AOV).
-## Product Report : Identified that our high-performing products are from Bikes category making maximum average order revenue (AOR).
+## Customer Report 
+Identified that most of the VIP customers are from (50 and Above) age group with maximum average order value (AOV).
+## Product Report 
+Identified that our high-performing products are from Bikes category making maximum average order revenue (AOR).
