@@ -22,7 +22,7 @@ Calculated which categories contribute the most to overall sales. (https://githu
 ## Data Segmentation 
 Segmented the customer data with 'VIP', 'Regular', and 'New' based on their spending and lifespan.
 And segmented the products with 'High-Performers', 'Mid-Range' and 'low-performers' based total sales of products.
-Also segmented the products into cost ranges and count how many products fall into each segment. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/c6b17ff56cbc57661b844b8822067e70ca334ce6/Data%20Segmentation.sql)
+Also segmented customer base by Age Demographics to identify core purchasing age brackets. (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/c6b17ff56cbc57661b844b8822067e70ca334ce6/Data%20Segmentation.sql)
 # Key Insights (Reporting)
 ## Customer Report 
 Identified that most of the VIP customers are from (50 and Above) age group with maximum average order value (AOV). (https://github.com/pushpadash2002-lab/sql-Bike-Sales-exploratory-data-analysis-project/blob/c2a350cc51b0244f4fcfd563026f40e98acf2da0/Customer%20Report.sql)
